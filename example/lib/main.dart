@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:scan_kit/scan_kit.dart';
+import 'package:ar_scan_kit_3d/scan_kit.dart';
 
 void main() {
   runApp(const ScanKitExampleApp());

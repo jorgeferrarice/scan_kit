@@ -1,9 +1,9 @@
-name: scan_kit
+name: ar_scan_kit_3d
 description: "A Flutter plugin for real-time 3D scanning on iOS using Apple ARKit, with LiDAR and TrueDepth sensor support and OBJ/GLB export."
 version: 0.1.0
-homepage: https://github.com/jorgeferrarice/scan_kit
-repository: https://github.com/jorgeferrarice/scan_kit
-issue_tracker: https://github.com/jorgeferrarice/scan_kit/issues
+homepage: https://github.com/jorgeferrarice/ar_scan_kit_3d
+repository: https://github.com/jorgeferrarice/ar_scan_kit_3d
+issue_tracker: https://github.com/jorgeferrarice/ar_scan_kit_3d/issues
 topics:
   - arkit
   - lidar
@@ -23,7 +23,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^6.0.0
+  flutter_lints: ^5.0.0
 
 flutter:
   plugin:

@@ -1,5 +1,5 @@
-name: scan_kit_example
-description: Demonstrates how to use the scan_kit plugin.
+name: ar_scan_kit_3d_example
+description: Demonstrates how to use the ar_scan_kit_3d plugin.
 publish_to: 'none'
 
 version: 1.0.0+1
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  scan_kit:
+  ar_scan_kit_3d:
     path: ../
 
 dev_dependencies:

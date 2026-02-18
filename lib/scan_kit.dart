@@ -5,7 +5,7 @@
 ///
 /// Usage:
 /// ```dart
-/// import 'package:scan_kit/scan_kit.dart';
+/// import 'package:ar_scan_kit_3d/ar_scan_kit_3d.dart';
 /// ```
 library;
 

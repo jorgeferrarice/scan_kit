@@ -1,6 +1,6 @@
-# scan_kit
+# ar_scan_kit_3d
 
-[![pub package](https://img.shields.io/pub/v/scan_kit.svg)](https://pub.dev/packages/scan_kit)
+[![pub package](https://img.shields.io/pub/v/ar_scan_kit_3d.svg)](https://pub.dev/packages/ar_scan_kit_3d)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg)](https://developer.apple.com/arkit/)
 
@@ -29,11 +29,11 @@ A Flutter plugin for real-time 3D scanning on iOS using Apple ARKit, with LiDAR 
 
 ## Installation
 
-Add `scan_kit` to your `pubspec.yaml`:
+Add `ar_scan_kit_3d` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  scan_kit: ^0.1.0
+  ar_scan_kit_3d: ^0.1.0
 ```
 
 ### iOS setup
@@ -49,7 +49,7 @@ Add a camera usage description to your `ios/Runner/Info.plist`:
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:scan_kit/scan_kit.dart';
+import 'package:ar_scan_kit_3d/scan_kit.dart';
 
 class ScanPage extends StatefulWidget {
   const ScanPage({super.key});

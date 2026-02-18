@@ -1,8 +1,8 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:scan_kit/src/scan_kit_controller.dart';
-import 'package:scan_kit/src/models/scan_config.dart';
-import 'package:scan_kit/src/models/scan_mode.dart';
+import 'package:ar_scan_kit_3d/src/scan_kit_controller.dart';
+import 'package:ar_scan_kit_3d/src/models/scan_config.dart';
+import 'package:ar_scan_kit_3d/src/models/scan_mode.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

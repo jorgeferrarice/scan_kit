@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:scan_kit/src/models/mesh_data.dart';
+import 'package:ar_scan_kit_3d/src/models/mesh_data.dart';
 
 void main() {
   group('ScanKitMeshAnchor', () {

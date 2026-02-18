@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
-  s.name             = 'scan_kit'
+  s.name             = 'ar_scan_kit_3d'
   s.version          = '0.1.0'
   s.summary          = 'Flutter plugin for 3D scanning with ARKit.'
   s.description      = 'Uses LiDAR and TrueDepth sensors for real-time 3D mesh capture.'
-  s.homepage         = 'https://github.com/jorgeferrarice/scan_kit'
+  s.homepage         = 'https://github.com/jorgeferrarice/ar_scan_kit_3d'
   s.license          = { :type => 'MIT', :file => '../LICENSE' }
   s.author           = { 'Jorge L Ferrari Ce' => 'jorge@jorgeferrarice.dev' }
   s.source           = { :path => '.' }

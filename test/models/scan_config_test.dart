@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:scan_kit/src/models/scan_config.dart';
-import 'package:scan_kit/src/models/scan_mode.dart';
+import 'package:ar_scan_kit_3d/src/models/scan_config.dart';
+import 'package:ar_scan_kit_3d/src/models/scan_mode.dart';
 
 void main() {
   group('ScanKitConfiguration', () {

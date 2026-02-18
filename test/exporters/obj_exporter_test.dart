@@ -2,8 +2,8 @@ import 'dart:typed_data';
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:vector_math/vector_math_64.dart';
-import 'package:scan_kit/src/exporters/obj_exporter.dart';
-import 'package:scan_kit/src/models/mesh_data.dart';
+import 'package:ar_scan_kit_3d/src/exporters/obj_exporter.dart';
+import 'package:ar_scan_kit_3d/src/models/mesh_data.dart';
 
 void main() {
   group('ObjExporter', () {
